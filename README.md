@@ -9,7 +9,7 @@
 - Ruby on Rails
 
 ## Link to React App
-[link](https://github.com/felixodette/hello-react-front-end/tree/dev)
+[link](https://github.com/felixodette/hello-react-front-end/)
 
 ## Getting Started
 
@@ -43,7 +43,7 @@ rails s
 
 ## Authors
 
-👤 **Manel Hammouche**
+👤 **Felix Odete**
 
 - GitHub: [@felixodette](https://github.com/felixodette)
 - Twitter: [@Odette3000](https://twitter.com/Odette3000)
